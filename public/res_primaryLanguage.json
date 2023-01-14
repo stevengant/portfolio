@@ -15,9 +15,9 @@
         "startDate": "2022",
         "description": "Choose Your Own Adventure is an interactive story that allows users to change the outcome of the story based on choices made throughout the story. The app was built using HTML, Vanilla JavaScript and CSS.",
         "images": [
-          "images/portfolio/photography/Choose_your_own_adventure1.png",
-          "images/portfolio/photography/Choose_your_own_adventure2.png",
-          "images/portfolio/photography/Choose_your_own_adventure3.png"
+          "images/portfolio/adventure/Choose_your_own_adventure1.png",
+          "images/portfolio/adventure/Choose_your_own_adventure2.png",
+          "images/portfolio/adventure/Choose_your_own_adventure3.png"
         ],
         "url": "",
         "technologies": [
@@ -40,8 +40,9 @@
         "startDate": "2018",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "",
-          ""
+          "images/portfolio/photography/odd_duck1.png",
+          "images/portfolio/photography/odd_duck2.png",
+          "images/portfolio/photography/odd_duck3.png"
         ],
         "url": "https://github.com",
         "technologies": [
