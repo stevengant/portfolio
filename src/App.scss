@@ -17,6 +17,7 @@ html {
 
 .title-container {
 	height: 50px;
+	color: #85dae4;
 }
 
 .title-styles {
@@ -27,6 +28,7 @@ html {
 .header-icon {
 	height: 150px;
 	width: 150px;
+	color: #85dae4;
 }
 
 header {
@@ -38,7 +40,8 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-image: url("../public/images/waves-resized.jpg");
+	background-color: #85dae4;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -95,7 +98,7 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: #85dae4;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
