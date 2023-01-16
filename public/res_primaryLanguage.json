@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Steve Gant. I'm working with newest front-end frameworks like Angular, React and Bootstrap. Thank you",
+      "description": "👋 I'm Steve Gant. Before joining Code Fellows I worked as an inside sales rep for an HVAC wholesaler. I wore many hats during my time there and really enjoyed it. But I began to feel I was at a dead end in my career there and decided to make a career change and become a Full Stack Software Developer.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -83,22 +83,17 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Gensco",
+        "title": "Inside Sales Rep",
+        "years": "6/2007 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
           "REST API",
           "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Bootstrap"
         ]
       },
       {

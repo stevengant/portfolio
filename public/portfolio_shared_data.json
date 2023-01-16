@@ -39,6 +39,31 @@
         "name": "Bootstrap",
         "class": "devicon-bootstrap-plain",
         "level": "85"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "85"
+      },
+      {
+        "name": "AWS",
+        "class": "devicon-amazonwebservices-plain",
+        "level": "85"
+      },
+      {
+        "name": "Mongo",
+        "class": "devicon-mongodb-plain",
+        "level": "85"
+      },
+      {
+        "name": "Ubuntu",
+        "class": "devicon-ubuntu-plain",
+        "level": "85"
+      },
+      {
+        "name": "VSCode",
+        "class": "devicon-visualstudio-plain",
+        "level": "85"
       }
     ]
   }
