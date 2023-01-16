@@ -80,7 +80,8 @@ header .nav {
 }
 
 .skills-tile {
-	background-color: transparentize(#F8F5F4, 0.95);
+	background-color: #85dae4;
+	color: black;
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
@@ -123,7 +124,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #5188ee;
 	overflow: hidden;
 }
 
@@ -132,7 +133,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: black;
+	color: white;
 	text-align: center;
 }
 
@@ -142,7 +143,7 @@ header h1 {
 }
 
 .foto div {
-	background: #ffffff;
+	background: #85dae4;
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
@@ -191,13 +192,13 @@ header h1 {
 }
 
 .polaroid span {
-	background: #ffffff;
+	background: #a4a3c0;
 	display: inline-block;
 	margin: 55px 75px 30px;
 	padding: 15px 15px 30px;
 	text-align: center;
 	text-decoration: none;
-	-webkit-box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
+	-webkit-box-shadow: 0 4px 6px #777777;
 	-moz-box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
 	box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
 	-webkit-transition: all .20s linear;
@@ -217,6 +218,7 @@ header h1 {
 
 .font-trebuchet {
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	background: #a4a3c0;
 }
 
 #preview {
@@ -234,7 +236,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #5188ee;
 }
 
 .experience-icon {
@@ -268,6 +270,7 @@ header h1 {
 .vertical-timeline-element-date {
 	padding: 0 !important;
 	margin: 0 !important;
+	color: white;
 }
 
 @media only screen and (max-width: 1170px) {
@@ -356,7 +359,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #5188ee;
 	padding-bottom: 5%;
 }
 
@@ -392,7 +395,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #5188ee;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -417,7 +420,7 @@ header h1 {
 }
 
 footer {
-	background: #1F1F1F;
+	background: #5188ee;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
@@ -429,7 +432,7 @@ footer {
 
 footer a,
 footer a:visited {
-	color: #fff;
+	color: white;
 }
 
 footer a:hover,

@@ -39,36 +39,46 @@ body[data-theme="dark"] {
       }
    }
 
+   footer {
+      background-color: black;
+   }
+
    #about {
-      background-color: #7f7f7f;
+      background-color: black;
       h1 span {
          color: white;
       }
       .polaroid span {
-         background:  #6d6d6d;
+         color: white !important;
+         background:  #0c1242;
       }
       .card {
-         background: #6d6d6d;
+         background: #0c1242;
          color: white;
       }
    }
 
    #portfolio {
-      background: #5b5b5b;
+      background: black;
       .section-title {
          color: white !important;
       }
       .foto div {
-         background: #6d6d6d;
+         background: #282828;
       }
       .project-title-settings {
          color: white;
       }
    }
 
+   #skills {
+      background-color: black;
+   }
+
    #resume {
       filter: brightness(80%);
-      background: #5b5b5b;
+      background: black;
+
       .section-title {
          color: white !important;
       }
@@ -79,7 +89,7 @@ body[data-theme="dark"] {
       }
 
       .main-badge {
-         background: #919191 !important;
+         background: black !important;
       }
 
       .vertical-timeline-element-date {
@@ -87,7 +97,7 @@ body[data-theme="dark"] {
       }
 
       .vertical-timeline-element-icon {
-         background: #919191 !important;
+         background: #85dae4 !important;
       }
       @media only screen and (max-width: 1169px) { 
          .vertical-timeline-element-date {
